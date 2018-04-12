@@ -1,12 +1,12 @@
 # Training
 This repository is for CWC volunteers to learn basic HTML, CSS, JS and Git/GitHub.
 ## Task 1
-Deadline- 5th April<br>
+Deadline- 5th May<br>
 Request for homepage.<br>
 Details are provided [here](http://www.iitk.ac.in/cc/homepage/)
 ## Assignment 1
 ## Its time for basic HTML
-Deadline- 7th April<br>
+Deadline- 7th May<br>
 [This is a basic tutorial for HTML](https://www.youtube.com/watch?v=Ggh_y-33Eso)<br>
 [Other useful material](https://www.w3schools.com/html/)<br>
 ![Assignment 1](Material/1.png)<br>
@@ -17,7 +17,7 @@ english alphabets only and rightside must end with a “.com” domain name<br>
 Message must be a textarea.
 ## Assignment 2
 ## Its time for basic CSS
-Deadline- 10th April<br>
+Deadline- 10th May<br>
 [This is basic tutorial for CSS](https://www.youtube.com/watch?v=CUxH_rWSI1k)<br>
 Other useful material: W3 schools<br>
 ![Assignment 2](Material/2.png)<br>
@@ -32,11 +32,11 @@ f. Bank password can be maximum 20 alphanumeric characters and should not
 be displayed when entered in the textbox.
 ## Assignment 3
 ## Your homepage
-Deadline- 13th April<br>
+Deadline- 13th May<br>
 In this Assignment you need to create your homepage. You are allowed to use templates.<br>
 ## Assignment 4
 ## Time to learn Git
-Deadline- 17th April<br>
+Deadline- 17th May<br>
 [I loved this tutorial series](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)<br>
 [Another lovely tool](https://try.github.io/levels/1/challenges/1)<br>
 Create a Github account<br/>
